@@ -10,7 +10,7 @@ import java.util.List;
 import com.util.DBhepler;
 
 /**
- * 
+ * 地址处理类
  * <p>Title:AddressService</p>
  * <p>Company:普及科技</p>
  * @author Jerry
